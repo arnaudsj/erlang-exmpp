@@ -1,0 +1,12 @@
+
+    WARNING !!!
+
+This old Subversion repository is obsolete, and will not be updated anymore.
+The development of source code is available in a new Git repository.
+Please check in the program home page where is the new Git repository.
+
+If you still want to access the last version of the files in this SVN, run:
+  svn up -r 905
+
+the exmpp developers
+15 February 2010
